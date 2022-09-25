@@ -3,10 +3,10 @@
 # A (3,6); B (2,1) -> 5,09
 # A (7,-5); B (1,-1) -> 7,21
 
-print("Put coordinates of point А:")
+print("Put coordinats of point А:")
 x_A = float(input('X: '))
 y_A = float(input('Y: '))
-print("Put coordinates of point B:")
+print("Put coordinats of point B:")
 x_B = float(input('X: '))
 y_B = float(input('Y: '))
 from math import sqrt
